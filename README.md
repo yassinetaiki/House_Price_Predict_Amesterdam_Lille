@@ -8,6 +8,6 @@ regression_alge: programmation de l'aspet mathematique de la regression multiple
 
 comparaison_Plille : comparaison de prediction base sur sklearn  
 
-main : fonction principal du programme 
+main : fonction principal du programme ( preprocessing a l'aide de pandas , la regression lineaire a l'aide du modele predifinie de sklearn et la fonction regression_alge)
 
 
