@@ -11,7 +11,7 @@ premire_modele(evalution function entrainement d'un premier modele de regression
 
 
 
-pour la deuxieme application concerne ville de lille c'est un programme basique dans le but de voir l'aspet mathematique derierre la regresion lineaire 
+pour la deuxieme application concerne la ville de lille c'est un programme basique dans le but de voir l'aspet mathematique derierre la regresion lineaire 
 programme est divisee en 4 fonction:
 
 Prediction_PLille : pour la prediction
